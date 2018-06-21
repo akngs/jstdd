@@ -23,6 +23,10 @@
 2. `app.test.js`에 테스트를 작성하고 `app.js`에 프로덕션 코드 작성
 3. 테스트를 실행하려면 브라우저를 새로고침
 
+## 실습용 요구사항
+
+* [자판기](docs/vending-machine.md)
+
 ## 참고자료
 
 * [Mocha](https://mochajs.org/)
